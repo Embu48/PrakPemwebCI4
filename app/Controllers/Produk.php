@@ -12,6 +12,7 @@ class Produk extends BaseController
 
         echo view ('produk/index', $data);
 		//return view('welcome_message');
+		//prak 5 aj
 	}
 
 	//--------------------------------------------------------------------
